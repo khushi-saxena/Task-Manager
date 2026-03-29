@@ -5,7 +5,7 @@
 //  Created by Khushi Saxena on 3/28/26.
 //
 
-import SwiftUI
+internal import SwiftUI
 
 @main
 struct TaskManagerApp: App {
